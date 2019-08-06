@@ -1,3 +1,5 @@
+![build status](https://travis-ci.org/hgbrown/validator-functional-pattern.svg?branch=master)
+
 # Functional Fluent Validation Pattern using Lambdas
 
 The pattern uses partial application and lambdas to build a validator that can be used using a 
